@@ -1,3 +1,7 @@
+/*7. Escrever um algoritmo que converta uma expressão aritmética parentizada
+usando as 4 operações para a expressão correspondente em notação
+polonesa reversa. Ex: Entrada: ((A+B)*(C-(F/D))) Saída: AB+CFD/-* */
+
 #include <iostream>
 #include <queue>
 #include <stack>
