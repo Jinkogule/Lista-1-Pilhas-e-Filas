@@ -1,3 +1,7 @@
+/*3. Reescreva as operações de Fila utilizando duas Pilhas como estrutura de
+dados auxiliar para guardar os elementos. Manipule as pilhas por suas
+interfaces padrão.*/
+
 #include <iostream>
 #include <stack>
 using namespace std;
