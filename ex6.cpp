@@ -1,3 +1,7 @@
+/*6. Criar uma variação de pilha, chamada de PilhaMin, que, além de fornecer
+as operações de pilha em tempo constante, define a operação função obterMinimo(ref P: PilhaMin): <TElem>
+que retorna o elemento de P com a menor chave em tempo constante.*/
+
 #include <iostream>
 
 using namespace std;
