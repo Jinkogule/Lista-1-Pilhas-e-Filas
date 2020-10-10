@@ -1,8 +1,6 @@
-## Lista-1-Pilhas-e-Filas
+## Lista de Exercícios (Pilhas e Filas)
 
 Lista de Filas e Pilhas feita para a disciplina Estruturas de Dados.
-
-## Lista de Exercícios (Pilhas e Filas)
 
 ## Estruturas de Dados para Sistemas de Informação
 
