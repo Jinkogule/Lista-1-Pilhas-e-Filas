@@ -1,3 +1,11 @@
+/*5. Escreva um algoritmo que dada uma fila F, inverta a ordem dos elementos
+de F. Seu algoritmo deve usar espaço auxiliar constante (somente variáveis
+locais e nenhum vetor extra) e:
+a) uma pilha
+b) duas filas
+Seu algoritmo deve manipular as pilhas e filas por suas interfaces padrão
+(somente métodos do TAD).*/
+
 #include <iostream>
 #include <stack>
 #include <queue>
