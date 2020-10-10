@@ -1,3 +1,7 @@
+/*2. Reescreva as operações de Pilha utilizando duas Filas como estrutura de
+dados auxiliar para guardar os elementos. Manipule as filas por suas
+interfaces padrão.*/
+
 #include <iostream>
 #include <queue>
 using namespace std;
