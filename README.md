@@ -1,10 +1,6 @@
 ## Lista de Exercícios (Pilhas e Filas)
 
-Lista de Filas e Pilhas feita para a disciplina Estruturas de Dados.
-
-## Estruturas de Dados para Sistemas de Informação
-
-## 2020.1 - Prof. Igor Machado Coelho
+**Lista de Filas e Pilhas feita para a disciplina Estruturas de Dados. 2020.1 - Prof. Igor Machado Coelho
 
 **1**. Um deque geral deve prover as seguintes operações:
 procedimento insereInicio(ref D: Deque, x: <TElem>)
